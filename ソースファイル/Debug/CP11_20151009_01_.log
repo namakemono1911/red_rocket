@@ -1,0 +1,15 @@
+﻿2015/11/27 12:13:17 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "C:\Users\spicywolf\OneDrive\授業内容\CP11\CScreen tanplate\CP11_20151009_01_.vcxproj" (build ターゲット)。
+     1>InitializeBuildStatus:
+         "AlwaysCreate" が指定されたため "Debug\CP11_20151009_01_.unsuccessfulbuild" を作成しています。
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\spicywolf\onedrive\授業内容\cp11\cscreen tanplate\main.cpp(40): error C2664: 'INKEY' : 1 番目の引数を 'char' から 'int &' に変換できません。(新しい機能 ; ヘルプを参照)
+     1>c:\users\spicywolf\onedrive\授業内容\cp11\cscreen tanplate\main.cpp(53): error C2664: 'INKEY' : 1 番目の引数を 'char' から 'int &' に変換できません。(新しい機能 ; ヘルプを参照)
+     1>c:\users\spicywolf\onedrive\授業内容\cp11\cscreen tanplate\main.cpp(60): error C2664: 'INKEY' : 1 番目の引数を 'char' から 'int &' に変換できません。(新しい機能 ; ヘルプを参照)
+     1>プロジェクト "C:\Users\spicywolf\OneDrive\授業内容\CP11\CScreen tanplate\CP11_20151009_01_.vcxproj" (build ターゲット) のビルドが終了しました -- 失敗。
+
+ビルドに失敗しました。
+
+経過時間 00:00:01.77
